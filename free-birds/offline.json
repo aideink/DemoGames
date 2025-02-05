@@ -1,0 +1,69 @@
+// List of files required for offline functionality with their version timestamp
+{
+    "version": 1670228486070,
+    "fileList": [
+        // Core engine files
+        "box2d.wasm.js",
+        "box2d.wasm",
+        "scripts/c3runtime.js",
+        "data.json",
+        
+        // Style and client files
+        "style.css",
+        "scripts/offlineclient.js",
+        
+        // Game assets (images)
+        "images/tutorialline-sheet0.webp",
+        "images/wave-sheet0.webp",
+        "images/miscother-sheet1.webp",
+        "images/misc-sheet1.webp",
+        "images/misc-sheet0.webp",
+        "images/miscother-sheet0.webp",
+        "images/shared-0-sheet1.webp",
+        "images/shared-0-sheet0.webp",
+        "images/shared-0-sheet5.webp",
+        "images/shared-0-sheet2.webp",
+        "images/shared-0-sheet6.webp",
+        "images/shared-0-sheet4.webp",
+        "images/shared-0-sheet3.webp",
+        
+        // Audio files
+        "media/music___.webm",
+        "media/lose.webm",
+        "media/bow draw 1.webm",
+        "media/bow draw 2.webm",
+        "media/bow draw 3.webm",
+        "media/cagefall1.webm",
+        "media/cagefall2.webm",
+        "media/cagefall3.webm",
+        "media/bowshoot2.webm",
+        "media/bowshoot1.webm",
+        "media/wooden arrow wood impact 2.webm",
+        "media/wooden arrow wood impact 3.webm",
+        "media/wooden arrow wood impact 1.webm",
+        "media/birdfly.webm",
+        "media/ropecut3.webm",
+        "media/ropecut1.webm",
+        "media/ropecut2.webm",
+        "media/music2_quirky curiosity.webm",
+        "media/winlevel.webm",
+        "media/winlevelpart.webm",
+        "media/tap__.webm",
+        "media/birds_peaceful_ody-0231-026.webm",
+        "media/cagefree.webm",
+        "media/arrowmiss.webm",
+        
+        // Icons and fonts
+        "icons/icon-16.png",
+        "icons/icon-32.png",
+        "icons/icon-80.png",
+        "icons/icon-64.png",
+        "icons/icon-128.png",
+        "icons/icon-256.png",
+        "icons/icon-512.png",
+        
+        // Additional game files
+        "levelcode.json",
+        "scripts/register-sw.js"
+    ]
+}
