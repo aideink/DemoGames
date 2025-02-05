@@ -1,0 +1,58 @@
+{
+    "// Edit by AIDE@2025.01": "",
+    // Version timestamp for cache control
+    "version": 1679996714375,
+    
+    // List of files to be cached for offline use
+    "fileList": [
+        // Core runtime scripts
+        "scripts/c3runtime.js",
+        "data.json",
+        "style.css",
+        "scripts/offlineclient.js",
+        
+        // Game image assets
+        "images/bgblack-sheet0.png",
+        "images/particlesprite-sheet0.png",
+        "images/btnundocover-sheet0.png",
+        "images/shared-0-sheet0.png",
+        "images/block-sheet0.png",
+        "images/block-sheet1.png",
+        "images/shared-0-sheet5.png",
+        "images/shared-0-sheet1.png",
+        "images/shared-0-sheet2.png",
+        "images/shared-0-sheet3.png",
+        "images/shared-0-sheet4.png",
+        "images/block-sheet2.png",
+        
+        // WebAssembly and worker scripts
+        "scripts/opus.wasm.js",
+        "scripts/opus.wasm.wasm",
+        "scripts/main.js",
+        "workermain.js",
+        "scripts/dispatchworker.js",
+        "scripts/jobworker.js",
+        "scripts/supportcheck.js",
+        
+        // Audio media files
+        "media/music.webm",
+        "media/click.webm",
+        "media/game_over.webm",
+        "media/whoosh.webm",
+        "media/win.webm",
+        "media/merge.webm",
+        "media/undo_earned.webm",
+        
+        // App icons for different sizes
+        "icons/icon-16.png",
+        "icons/icon-32.png",
+        "icons/icon-64.png",
+        "icons/icon-128.png",
+        "icons/loading-logo.png",
+        "icons/icon-256.png",
+        "icons/icon-512.png",
+        
+        // Service worker registration
+        "scripts/register-sw.js"
+    ]
+}
