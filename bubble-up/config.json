@@ -1,0 +1,41 @@
+{
+	// Edit by AIDE@2025.01
+	
+	// Score configuration for different pipe types
+	"PipesScore": {
+		"1": 50,
+		"2": 100,
+		"3": 150
+	},
+	
+	// Initial coin amount for new players
+	"InitCoins": 0,
+	
+	// Cost to play one game
+	"PlayOnPrice": 130,
+	
+	// Target score for gift progress
+	"GiftProgressTarget": 230,
+	
+	"Boosters": {
+		"InitCount": {
+			"Bomb": 0,
+			"Rainbow": 0,
+			"Rocket": 0,
+			"Lightning": 0
+		},
+		"Price": {
+			"Bomb": 60,
+			"Rainbow": 70,
+			"Rocket": 90,
+			"Lightning": 110
+		}
+	},
+	
+	"DeletedBubbles-Colors": [
+		[ 0 ,    [0,1,2] ],
+		[ 300 ,  [0,1,2,3] ],
+		[ 800 ,  [0,1,2,3,4] ],
+		[ 1400 , [0,1,2,3,4,5] ]
+	]
+}
